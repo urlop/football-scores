@@ -26,6 +26,7 @@ import android.widget.RemoteViews;
 import barqsoft.footballscores.DetailActivity;
 import barqsoft.footballscores.R;
 
+/* CLASS BASED ON: https://github.com/commonsguy/cw-advandroid/tree/master/AppWidget/LoremWidget */
 public class WidgetProvider extends AppWidgetProvider {
 
   @Override

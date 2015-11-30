@@ -30,6 +30,7 @@ import barqsoft.footballscores.R;
 import barqsoft.footballscores.Utilies;
 import barqsoft.footballscores.model.Match;
 
+/* CLASS BASED ON: https://github.com/commonsguy/cw-advandroid/tree/master/AppWidget/LoremWidget */
 public class LoremViewsFactory implements RemoteViewsService.RemoteViewsFactory {
   private static ArrayList<Match> items = new ArrayList<>();
   private Context ctxt=null;

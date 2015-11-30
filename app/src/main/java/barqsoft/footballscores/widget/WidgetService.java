@@ -18,6 +18,7 @@ package barqsoft.footballscores.widget;
 import android.content.Intent;
 import android.widget.RemoteViewsService;
 
+/* FROM: https://github.com/commonsguy/cw-advandroid/tree/master/AppWidget/LoremWidget */
 public class WidgetService extends RemoteViewsService {
   @Override
   public RemoteViewsFactory onGetViewFactory(Intent intent) {
